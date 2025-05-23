@@ -11,7 +11,7 @@ import json
 import os
 
 
-HUMAN_EVAL = "/data1/zhouzhilun/LLM_Collective_Intelligence/human-eval/data/HumanEval.jsonl.gz"
+HUMAN_EVAL = "./data/HumanEval.jsonl.gz"
 
 
 def read_problems(evalset_file: str = HUMAN_EVAL) -> Dict[str, Dict]:
