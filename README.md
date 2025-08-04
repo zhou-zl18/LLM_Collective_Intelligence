@@ -1,6 +1,6 @@
 # LLM Collective Intelligence
 
-This is the repository for paper **"Evidence of Collective Intelligence in LLM Agent Groups"**
+This is the repository for paper **"Extracting Collective Intelligence Factor in LLM Agent Groups"**
 
 ## Environment
 - Tested OS: Windows
@@ -38,5 +38,5 @@ Usage: python run.py
 Original experiment results, including performance of all LLM agent groups' on all benchmarks.
 
 - **result_analysis.ipynb**  
-Code for reproducing all analysis results and Figure 2-5 in the paper.
+Code for reproducing all analysis results and Figure 2-7 in the paper.
 
