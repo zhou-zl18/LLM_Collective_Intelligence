@@ -1,6 +1,6 @@
 # LLM Collective Intelligence
 
-This is the repository for paper **"Towards Generalizable LLM Multi-Agent System: Identifying Collective Intelligence Factor in LLM Agent Groups"**
+This is the repository for paper **"Identifying Collective Intelligence Factor in LLM Agent Groups for Generalizable Multi-Agent System Design"**
 
 ## Environment
 - Tested OS: Windows
